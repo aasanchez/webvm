@@ -20,13 +20,9 @@ export const introMessage = [
 	"|                                                                             |",
 	"+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+",
 	"",
-	"   Welcome to WebVM. If unsure, try these examples:",
+	"   Check my CV",
 	"",
-	"     python3 examples/python3/fibonacci.py ",
-	"     gcc -o helloworld examples/c/helloworld.c && ./helloworld",
-	"     objdump -d ./helloworld | less -M",
-	"     vim examples/c/helloworld.c",
-	"     curl --max-time 15 parrot.live  # requires networking",
+	"     cat documents/CV.md",
 	""
 ];
 export const errorMessage = [
